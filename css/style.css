@@ -1,0 +1,21 @@
+* {
+    color: #000;
+    box-sizing: border-box; /*박스 사이즈 설정*/
+}
+
+/*스타일 초기화S*/
+body {
+    margin: 0;
+}
+
+ul,ol,dl,dt,dd{
+    margin: 0;
+    padding: 0;
+}
+ul, ol {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+/*사타일 초기화E*/
