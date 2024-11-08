@@ -88,5 +88,7 @@ header nav a{
 .sub-menus a{
     width: calc(100% / 3);
     text-align: center;
+    height: 50px;
+    line-height: 50px;
 }
 /*서브 메뉴 영역 E*/
